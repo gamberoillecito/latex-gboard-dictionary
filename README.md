@@ -17,14 +17,6 @@ See [`dictionary.txt`](https://github.com/DenverCoder1/latex-gboard-dictionary/b
 
 ![latex-gboard](https://user-images.githubusercontent.com/20955511/132758175-1584af8d-c6c0-482a-80bb-0dc67b8542cb.gif)
 
-## Download
-
-Download as a **zip folder** to import into Gboard
-
-[<img alt="Download zip" title="Download zip" src="https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/>][download]
-
-[Older versions](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/releases)
-
 ## How to import shortcuts
 
 ### Tutorial on YouTube
